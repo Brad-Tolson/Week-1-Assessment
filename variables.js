@@ -12,7 +12,7 @@ let faveNum = 63
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
-lovesCode = "True"
+let lovesCode = "True"
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
